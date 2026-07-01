@@ -1,1 +1,1 @@
-FROM zangxue/sing:v4
+FROM ghcr.io/nwfnyfgvfir/allinonem38:latest
